@@ -1,0 +1,91 @@
+body {
+    background-color: #ffccbc;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    color: #880e4f;
+}
+
+.karakterek {
+    margin-left: 2cm;;
+}
+
+#h2karakterek {
+    text-decoration: underline;
+}
+
+li {
+    font-size: larger;
+}
+
+#liAhri {
+    color: #4a148c;
+}
+
+#liAkali {
+    color: #33691e;   
+}
+
+#liSeraphine {
+    color: #e91e63;
+}
+
+a {
+    text-decoration-line: none;
+}
+
+#h1Ahri {
+    color: #4a148c;
+}
+
+#h1Akali {
+    color: #33691e;
+}
+
+#h1Seraphine {
+    color: #e91e63;
+}
+
+.Ahri {
+    margin-left: 2cm;
+    font-style: italic;
+}
+
+#h2AhriKepessegek, #h2AhriSkinek, #h2AhriHentai {
+    margin-left: 1cm;
+    color: #6a1b9a;
+    font-style: normal;
+}
+
+.Akali {
+    margin-left: 2cm;
+    font-style: italic;
+}
+
+#h2AkaliKepessegek, #h2AkaliSkinek, #h2AkaliHentai {
+    margin-left: 1cm;
+    color: #689f28;
+    font-style: normal;
+}
+
+.Seraphine {
+    margin-left: 2cm;
+    font-style: italic;
+}
+
+#h2SeraphineKepessegek, #h2SeraphineSkinek, #h2SeraphineHentai {
+    margin-left: 1cm;
+    color: #ec407a;
+    font-style: normal;
+}
+
+p {
+    font-style: normal;
+}
+
+img {
+    width: 15%;
+}
