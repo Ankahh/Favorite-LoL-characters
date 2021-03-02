@@ -3,6 +3,7 @@ body {
     padding: 0;
     background-color: #ffccbc;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 3cm;
 }
 
 h1 {
@@ -13,14 +14,23 @@ h1 {
     text-align: center;
     text-decoration: underline;
     box-shadow: 0 3px 12px rgba(0, 0, 0, .6);
+    font-size: 50px;
 }
 
 .karakterek {
-    margin-left: 2cm;;
+    margin-top: 5cm;
+    margin-bottom: 5cm;
+    margin-left: 17cm;
+    margin-right: 17cm;
+    border: 8px solid #880e4f;
+    border-radius: 16px;
+    background-color: #ffcdd2;
+    text-align: center;
 }
 
 #h2karakterek {
     text-decoration: underline;
+    font-size: xx-large;
 }
 
 li {
@@ -132,4 +142,12 @@ button {
     background-color: #ec407a;
     border: #c71585;
     font-size: 30px;
+}
+
+#videok {
+    color: red;
+}
+
+#seraphineList {
+    font-size: 17px;
 }
