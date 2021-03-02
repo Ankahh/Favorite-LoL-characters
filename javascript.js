@@ -1,3 +1,18 @@
-/*prompt('Buzi vagy?');
-prompt('Miért válaszoltál igennel?');
-alert('Ne tagadd, a LoL tett ilyenné. <3');
+function ahri() {
+    var valasz = confirm("anyád picsája");
+    if (valasz = true) {
+        
+    }
+
+    else {
+        
+    }
+}
+
+function akali() {
+
+}
+
+function seraphine() {
+
+}

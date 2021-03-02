@@ -1,12 +1,18 @@
 body {
+    margin: 0;
+    padding: 0;
     background-color: #ffccbc;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 h1 {
+    margin: 0;
+    padding: 8px;
+    background-color: #880e4f;
+    color: #ffccbc;
     text-align: center;
     text-decoration: underline;
-    color: #880e4f;
+    box-shadow: 0 3px 12px rgba(0, 0, 0, .6);
 }
 
 .karakterek {
@@ -26,7 +32,7 @@ li {
 }
 
 #liAkali {
-    color: #33691e;   
+    color: #33691e;
 }
 
 #liSeraphine {
@@ -35,6 +41,22 @@ li {
 
 a {
     text-decoration-line: none;
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    color: white;
+}
+
+a:active {
+    color: white;
 }
 
 #h1Ahri {
@@ -88,4 +110,26 @@ p {
 
 img {
     width: 15%;
+}
+
+button {
+    border-radius: 4px;
+}
+
+.ahriBtn {
+    background-color: #6a1b9a;
+    border: #4b0082;
+    font-size: 30px;
+}
+
+.akaliBtn {
+    background-color: #689f28;
+    border: #006400;
+    font-size: 30px;
+}
+
+.seraphineBtn {
+    background-color: #ec407a;
+    border: #c71585;
+    font-size: 30px;
 }
